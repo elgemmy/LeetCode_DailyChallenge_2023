@@ -3987,6 +3987,10 @@
         {
             "day": "23",
             "title": "Greatest Sum Divisible by Three"
+        },
+        {
+            "day": "24",
+            "title": "Binary Prefix Divisible By 5"
         }
     ],
     "12- December": [
