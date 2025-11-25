@@ -3991,6 +3991,10 @@
         {
             "day": "24",
             "title": "Binary Prefix Divisible By 5"
+        },
+        {
+            "day": "25",
+            "title": "Smallest Integer Divisible by K"
         }
     ],
     "12- December": [
