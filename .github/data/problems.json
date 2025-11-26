@@ -3995,6 +3995,10 @@
         {
             "day": "25",
             "title": "Smallest Integer Divisible by K"
+        },
+        {
+            "day": "26",
+            "title": "Paths in Matrix Whose Sum Is Divisible by K"
         }
     ],
     "12- December": [
