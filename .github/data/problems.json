@@ -4003,6 +4003,10 @@
         {
             "day": "27",
             "title": "Maximum Subarray Sum With Length Divisible by K"
+        },
+        {
+            "day": "28",
+            "title": "Maximum Number of K-Divisible Components"
         }
     ],
     "12- December": [
