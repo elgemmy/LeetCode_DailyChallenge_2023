@@ -4007,6 +4007,10 @@
         {
             "day": "28",
             "title": "Maximum Number of K-Divisible Components"
+        },
+        {
+            "day": "29",
+            "title": "Minimum Operations to Make Array Sum Divisible by K"
         }
     ],
     "12- December": [
