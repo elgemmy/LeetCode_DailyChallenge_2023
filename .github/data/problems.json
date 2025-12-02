@@ -4269,6 +4269,10 @@
         {
             "day": "01",
             "title": "Maximum Running Time of N Computers"
+        },
+        {
+            "day": "02",
+            "title": "Count Number of Trapezoids I"
         }
     ]
 }
