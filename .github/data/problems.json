@@ -4273,6 +4273,10 @@
         {
             "day": "02",
             "title": "Count Number of Trapezoids I"
+        },
+        {
+            "day": "03",
+            "title": "Count Number of Trapezoids II"
         }
     ]
 }
