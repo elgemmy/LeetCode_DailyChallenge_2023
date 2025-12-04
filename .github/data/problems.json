@@ -4277,6 +4277,10 @@
         {
             "day": "03",
             "title": "Count Number of Trapezoids II"
+        },
+        {
+            "day": "04",
+            "title": "Count Collisions on a Road"
         }
     ]
 }
