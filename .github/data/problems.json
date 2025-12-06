@@ -4285,6 +4285,10 @@
         {
             "day": "05",
             "title": "Count Partitions with Even Sum Difference"
+        },
+        {
+            "day": "06",
+            "title": "Count Partitions With Max-Min Difference at Most K"
         }
     ]
 }
