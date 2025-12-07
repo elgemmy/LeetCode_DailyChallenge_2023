@@ -4289,6 +4289,10 @@
         {
             "day": "06",
             "title": "Count Partitions With Max-Min Difference at Most K"
+        },
+        {
+            "day": "07",
+            "title": "Count Odd Numbers in an Interval Range"
         }
     ]
 }
