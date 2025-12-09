@@ -4297,6 +4297,10 @@
         {
             "day": "08",
             "title": "Count Square Sum Triples"
+        },
+        {
+            "day": "09",
+            "title": "Count Special Triplets"
         }
     ]
 }
