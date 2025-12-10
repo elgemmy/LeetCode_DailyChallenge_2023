@@ -4301,6 +4301,10 @@
         {
             "day": "09",
             "title": "Count Special Triplets"
+        },
+        {
+            "day": "10",
+            "title": "Count the Number of Computer Unlocking Permutations"
         }
     ]
 }
