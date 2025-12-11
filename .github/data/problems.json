@@ -4305,6 +4305,10 @@
         {
             "day": "10",
             "title": "Count the Number of Computer Unlocking Permutations"
+        },
+        {
+            "day": "11",
+            "title": "Count Covered Buildings"
         }
     ]
 }
