@@ -4317,6 +4317,10 @@
         {
             "day": "13",
             "title": "Coupon Code Validator"
+        },
+        {
+            "day": "14",
+            "title": "Number of Ways to Divide a Long Corridor"
         }
     ]
 }
