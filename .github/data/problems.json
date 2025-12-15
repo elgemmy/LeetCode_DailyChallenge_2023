@@ -4321,6 +4321,10 @@
         {
             "day": "14",
             "title": "Number of Ways to Divide a Long Corridor"
+        },
+        {
+            "day": "15",
+            "title": "Number of Smooth Descent Periods of a Stock"
         }
     ]
 }
