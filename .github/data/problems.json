@@ -4341,6 +4341,10 @@
         {
             "day": "19",
             "title": "Find All People With Secret"
+        },
+        {
+            "day": "20",
+            "title": "Delete Columns to Make Sorted"
         }
     ]
 }
