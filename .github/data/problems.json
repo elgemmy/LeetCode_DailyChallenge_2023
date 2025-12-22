@@ -4349,6 +4349,10 @@
         {
             "day": "21",
             "title": "Delete Columns to Make Sorted II"
+        },
+        {
+            "day": "22",
+            "title": "Delete Columns to Make Sorted III"
         }
     ]
 }
