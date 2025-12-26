@@ -4365,6 +4365,10 @@
         {
             "day": "25",
             "title": "Maximize Happiness of Selected Children"
+        },
+        {
+            "day": "26",
+            "title": "Minimum Penalty for a Shop"
         }
     ]
 }
